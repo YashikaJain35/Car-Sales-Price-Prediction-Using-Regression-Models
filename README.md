@@ -1,1 +1,1 @@
-Car_Sales_Prediction using Regression Model
+Car Sales Prediction using Regression Model
